@@ -1,0 +1,10 @@
+<wpml-config>
+  <admin-texts>
+    <key name="Scrappers_project_AASTU_Main_Settings">
+      <key name="read_more"/>
+      <key name="attr_text"/>
+      <key name="sentence_list"/>
+      <key name="sentence_list2"/>
+    </key>
+  </admin-texts>
+</wpml-config>
